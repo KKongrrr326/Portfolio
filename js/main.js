@@ -9,11 +9,10 @@ $(document).ready(function() {
         scrollHorizontally: true,
         keyboardScrolling : true, 
         navigation: true,
-        navigationTooltips : ['Home','Wedding','Samjin','design','contact'],
+        navigationTooltips : ['Home','jisign','mintech','admin','design','contact'],
         navigationPosition: 'right',
         showActiveTooltips : true,
         scrollingSpeed : 500,
-        // afterResponsive : function(isResponsive){}
 
     });
 });
